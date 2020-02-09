@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">W3_P3</string>
+    <string name="loginLabel">Login</string>
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="submitButton">Submit</string>
+    <string name="newGame">Start a new game</string>
+    <string name="answerField">Enter answer</string>
+    <string name="README">See README under W3_P3/app/README.txt for login info</string>
+</resources>

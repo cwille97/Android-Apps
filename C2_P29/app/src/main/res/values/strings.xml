@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C2_P29</string>
+    <string name="cheeseburger_string">How many cheeseburgers would you like? (350 calories each)</string>
+    <string name="fries_string">How many orders of french fries would you like? (400 calories each)</string>
+    <string name="soda_string">How many sodas would you like? (250 calories each)</string>
+    <string name="total_string">Total calories in your meal: 0</string>
+</resources>

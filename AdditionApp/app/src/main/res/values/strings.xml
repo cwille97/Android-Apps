@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdditionApp</string>
+    <string name="addition_button">Addition</string>
+    <string name="label1">123</string>
+    <string name="label2">456</string>
+    <string name="label_sum">Sum</string>
+    <string name="button_generate">Generate</string>
+</resources>

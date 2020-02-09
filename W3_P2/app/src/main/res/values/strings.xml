@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W3_P2</string>
+    <string name="celsiusLabel">Celsius</string>
+    <string name="fahrenheitLabel">Fahrenheit</string>
+    <string name="cold">It\'s cold</string>
+    <string name="notCold">It\'s not cold</string>
+</resources>
