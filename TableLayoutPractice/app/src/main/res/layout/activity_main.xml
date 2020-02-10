@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:stretchColumns="1">
+
+    <TableRow
+        android:id="@+id/row1">
+
+    <TextView
+
+        android:id="@+id/simpleTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#b0b0b0"
+        android:padding="18dip"
+        android:text="Text 1"
+        android:textColor="#000"
+        android:textSize="12dp" />
+
+    <TextView
+
+        android:id="@+id/simpleTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:padding="18dip"
+        android:text="Text 2"
+        android:textColor="#000"
+        android:textSize="14dp" />
+
+    <TextView
+
+        android:id="@+id/simpleTextView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF3388"
+        android:padding="18dip"
+        android:text="Text 3"
+        android:textColor="#000"
+        android:textSize="14dp" />
+
+</TableRow>
+
+<TableRow>
+<TextView
+
+    android:id="@+id/simpleTextView4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FF3388"
+    android:padding="18dip"
+    android:text="Text 4"
+    android:textColor="#000"
+    android:textSize="14dp" />
+
+<TextView
+
+    android:id="@+id/simpleTextView5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#228866"
+    android:padding="18dip"
+    android:text="Text 5"
+    android:textColor="#000"
+    android:textSize="14dp" />
+
+
+
+</TableRow>
+
+<TableRow>
+<TextView
+
+    android:id="@+id/simpleTextView6"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#663388"
+    android:padding="18dip"
+    android:text="Text 6"
+    android:textColor="#000"
+    android:textSize="14dp" />
+</TableRow>
+
+    </TableLayout>
+
