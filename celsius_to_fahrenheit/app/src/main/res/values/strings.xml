@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CelsiustoFahrenheit</string>
+    <string name="fahrenheitLabel">Fahrenheit: </string>
+    <string name="celsiusLabel">Celsius Value</string>
+    <string name="instructions">Enter a celsius value and convert it to fahrenheit.</string>
+    <string name="buttonText">Convert</string>
+</resources>
